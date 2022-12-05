@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.388b3fda.css",
+    "main.js": "/shopping-cart/static/js/main.aa7bf54a.js",
+    "static/media/background.jpg": "/shopping-cart/static/media/background.c70418aba1da7f4f19c2.jpg",
+    "static/media/intel-pentium.PNG": "/shopping-cart/static/media/intel-pentium.b71556f045db4699c6d0.PNG",
+    "static/media/intel-seleron.PNG": "/shopping-cart/static/media/intel-seleron.739020e3a0ca5bb5b703.PNG",
+    "static/media/radeon-rx6900.PNG": "/shopping-cart/static/media/radeon-rx6900.28994284819f951cdf01.PNG",
+    "static/media/asus-rx6400.PNG": "/shopping-cart/static/media/asus-rx6400.0f741767f675d3ca24e6.PNG",
+    "static/media/geforce-gt1030.PNG": "/shopping-cart/static/media/geforce-gt1030.9bfac334fe4ec202a579.PNG",
+    "static/media/intel-i9.PNG": "/shopping-cart/static/media/intel-i9.8c7cf4178289463bf956.PNG",
+    "static/media/geforce-rtx3060.PNG": "/shopping-cart/static/media/geforce-rtx3060.32e4d14994d826521d4f.PNG",
+    "static/media/intel-i5.PNG": "/shopping-cart/static/media/intel-i5.222dc50c2a2f8275d5e0.PNG",
+    "static/media/intel-i3.PNG": "/shopping-cart/static/media/intel-i3.13b8cd654dca580f49e3.PNG",
+    "static/media/amd-ryzen-7.PNG": "/shopping-cart/static/media/amd-ryzen-7.a6804580b64b53a8cca1.PNG",
+    "static/media/amd-ryzen-5.PNG": "/shopping-cart/static/media/amd-ryzen-5.49e5e73451050f156fef.PNG",
+    "static/media/apacer.PNG": "/shopping-cart/static/media/apacer.80e1663c970af9c8f6f9.PNG",
+    "static/media/pny.PNG": "/shopping-cart/static/media/pny.19eda26471e781f6e9c5.PNG",
+    "static/media/geforce-rtx3070.PNG": "/shopping-cart/static/media/geforce-rtx3070.4cb788b4dd9ee1984f85.PNG",
+    "static/media/amd-200ge.PNG": "/shopping-cart/static/media/amd-200ge.d35a30d35dcd8966370d.PNG",
+    "static/media/pristine-2666.PNG": "/shopping-cart/static/media/pristine-2666.abe6c20c6c5e726ce8b5.PNG",
+    "static/media/kingstone-beast.PNG": "/shopping-cart/static/media/kingstone-beast.ab218aaee49d6c3ea562.PNG",
+    "static/media/corsair.PNG": "/shopping-cart/static/media/corsair.c8da4ee82c3effb6f154.PNG",
+    "static/media/kingstone-3600.PNG": "/shopping-cart/static/media/kingstone-3600.5005db484d9ce818e9d7.PNG",
+    "static/media/samsung-970.PNG": "/shopping-cart/static/media/samsung-970.e7ec3b9692ec21362916.PNG",
+    "static/media/crucial-p3.PNG": "/shopping-cart/static/media/crucial-p3.4d9490431665045a29d7.PNG",
+    "index.html": "/shopping-cart/index.html",
+    "main.388b3fda.css.map": "/shopping-cart/static/css/main.388b3fda.css.map",
+    "main.aa7bf54a.js.map": "/shopping-cart/static/js/main.aa7bf54a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388b3fda.css",
+    "static/js/main.aa7bf54a.js"
+  ]
+}

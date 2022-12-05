@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.388b3fda.css",
-    "main.js": "/shopping-cart/static/js/main.aa7bf54a.js",
+    "main.js": "/shopping-cart/static/js/main.abefaf1f.js",
     "static/media/background.jpg": "/shopping-cart/static/media/background.c70418aba1da7f4f19c2.jpg",
     "static/media/intel-pentium.PNG": "/shopping-cart/static/media/intel-pentium.b71556f045db4699c6d0.PNG",
     "static/media/intel-seleron.PNG": "/shopping-cart/static/media/intel-seleron.739020e3a0ca5bb5b703.PNG",
@@ -26,10 +26,10 @@
     "static/media/crucial-p3.PNG": "/shopping-cart/static/media/crucial-p3.4d9490431665045a29d7.PNG",
     "index.html": "/shopping-cart/index.html",
     "main.388b3fda.css.map": "/shopping-cart/static/css/main.388b3fda.css.map",
-    "main.aa7bf54a.js.map": "/shopping-cart/static/js/main.aa7bf54a.js.map"
+    "main.abefaf1f.js.map": "/shopping-cart/static/js/main.abefaf1f.js.map"
   },
   "entrypoints": [
     "static/css/main.388b3fda.css",
-    "static/js/main.aa7bf54a.js"
+    "static/js/main.abefaf1f.js"
   ]
 }
